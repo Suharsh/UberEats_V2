@@ -1,0 +1,16 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const UPDATE_CART = 'UPDATE_CART';
+export const SET_DELIVERY_ADDRESS = 'SET_DELIVERY_ADDRESS';
+export const CLEAR_CART = 'CLEAR_CART';
+export const SET_MODE = 'SET_MODE';
+export const GET_CUSTOMER = 'GET_CUSTOMER';
+export const SET_RESTAURANT = 'SET_RESTAURANT';
+export const SET_FAVOURITES = 'SET_FAVOURITES';
+export const SET_ALL_RESTAURANT = 'SET_ALL_RESTAURANT';
+export const SET_ALL_DISH = 'SET_ALL_DISH';
+export const SET_DISH = 'SET_DISH';
+export const CLEAR_RESTAURANT = 'CLEAR_RESTAURANT';
+export const SET_DISH_ACTION = 'SET_DISH_ACTION';
+export const SET_CUSTOMER_ID = 'SET_CUSTOMER_ID';
+export const SET_JWT_TOKEN = 'SET_JWT_TOKEN';
